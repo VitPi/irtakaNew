@@ -1,0 +1,32 @@
+/*
+
+*/
+
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat-Regular, sans-serif;
+    font-size: 16px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.wrapper{
+    padding: 8px 24px 0 24px;
+    height: 40000px;
+}
+
+#__next{
+
+
+}
+

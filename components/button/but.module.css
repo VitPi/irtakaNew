@@ -1,0 +1,25 @@
+
+.button {
+    padding: 13px 53px;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    color: #FFFFFF;
+    background: linear-gradient(180deg, #5DA8E5 0%, #3481CC 100%);
+    border: 1px solid #5DA8E5;
+    border-radius: 36px;
+    box-shadow: 0 4px 2px #024FAA;
+    font-family: Montserrat-Regular, sans-serif;
+}
+
+.button:active {
+    box-shadow: none;
+    transform: translate(0, 0.2rem);
+}
+
+
+
+
+
+
+
+

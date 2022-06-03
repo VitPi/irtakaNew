@@ -1,0 +1,38 @@
+/*
+
+*/
+
+
+.a {
+    color: #353D46;
+    text-transform: uppercase;
+
+    /*padding: 0 0 16px 0;*/
+}
+
+.a:nth-last-of-type(1){
+    margin-bottom: 20px;
+}
+
+@media (min-width: 1000px) {
+
+    .a {
+        font-weight: 500;
+        color: #FFFFFF;
+
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

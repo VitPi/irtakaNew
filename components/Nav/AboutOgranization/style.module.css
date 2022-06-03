@@ -1,0 +1,17 @@
+
+.inform {
+    text-align: left;
+}
+
+.inform * {
+    margin: 0;
+}
+
+.head {
+    font-size: 16px;
+    line-height: 20px;
+     color: #353D46;
+}
+
+
+
